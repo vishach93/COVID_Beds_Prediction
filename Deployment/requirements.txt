@@ -1,0 +1,20 @@
+statsmodels==0.12.2
+Flask==1.1.2
+gunicorn==19.9.0
+itsdangerous==1.1.0
+jinja2==2.10.1
+MarkupSafe==1.1.1
+Werkzeug==0.15.5
+numpy>=1.9.2
+scipy>=0.15.5
+scikit-learn>=0.18
+matplotlib>=1.4.3
+pandas>=0.19
+Keras==2.4.3
+
+
+#For all the file requirements
+#Use pip install pipreqs - incase not installed
+
+#Change the directory to the folder we need all the requirements for
+#and then use the command pipreqs 
